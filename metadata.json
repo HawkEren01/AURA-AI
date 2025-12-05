@@ -1,0 +1,7 @@
+{
+  "name": "AURA - AI Assistant",
+  "description": "AURA, a personal AI assistant designed to be helpful across PC and mobile devices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
